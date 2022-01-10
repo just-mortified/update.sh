@@ -12,6 +12,8 @@ site="example"
 # git account name
 gitusr="github-user"
 
+# uncomment line 16 and comment out lines 21 and 22 to use permalink
+# web="www.example.com"
 
 
 if [ "$USER" = "$computer" ];
